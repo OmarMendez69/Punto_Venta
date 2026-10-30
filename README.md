@@ -1,17 +1,16 @@
-# punto_venta_dolores
+# Evidencia de la Práctica
 
-A new Flutter project.
+## Pruebas Unitarias (`flutter test`)
+Resultado de la ejecución de las pruebas unitarias con éxito:
 
-## Getting Started
+![Pruebas Unitarias](capturas/tests-captura.png)[cite: 1]
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Capturas de la Aplicación en Ejecución
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Pantalla Principal / Funcionamiento de la App
+![Captura 1 de la App](capturas/cap1.png)[cite: 1]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Venta Cobrada / Detalle de Operación
+![Captura 2 de la App](capturas/cap2.png)[cite: 1]
